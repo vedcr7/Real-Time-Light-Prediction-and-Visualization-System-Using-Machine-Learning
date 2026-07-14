@@ -1,0 +1,18 @@
+# Core scientific / ML stack
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# Visualisation
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Serial communication
+pyserial==3.5
+
+# GUI (Tkinter ships with CPython; no pip install needed)
+# tkinter  — built-in
+
+# Optional: Jupyter for exploratory analysis
+# jupyter==1.1.1
