@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Trained model (large binary — regenerate with train_model.py)
+python/model.pkl
+
+# Raw data (keep sample; ignore large collected datasets)
+data/collected_*.csv
+data/raw_*.csv
+
+# Matplotlib output cache
+.matplotlib/
+
+# Logs
+*.log
