@@ -64,48 +64,6 @@ Tkinter + Matplotlib Dashboard
 
 The model achieved excellent classification performance for Light and Dark states under varying lighting conditions.
 
-## 📷 Project Gallery
-
-### image1.jpg
-![](images/image1.jpg)
-
-### image10.png
-![](images/image10.png)
-
-### image11.png
-![](images/image11.png)
-
-### image12.png
-![](images/image12.png)
-
-### image13.jpeg
-![](images/image13.jpeg)
-
-### image2.png
-![](images/image2.png)
-
-### image3.png
-![](images/image3.png)
-
-### image4.png
-![](images/image4.png)
-
-### image5.jpeg
-![](images/image5.jpeg)
-
-### image6.png
-![](images/image6.png)
-
-### image7.png
-![](images/image7.png)
-
-### image8.png
-![](images/image8.png)
-
-### image9.png
-![](images/image9.png)
-
-
 ## 🚀 Installation
 ```bash
 git clone https://github.com/yourusername/Real-Time-Light-State-Prediction.git
